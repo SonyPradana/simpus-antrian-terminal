@@ -1,0 +1,17 @@
+# Binaries and build artifacts
+*.exe
+*.exe~
+/dist/
+
+# Local configuration and secrets
+/config.json
+.env
+.env.*
+
+# Test and coverage output
+*.test
+coverage.out
+coverage.*
+
+# Logs
+*.log

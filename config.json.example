@@ -1,0 +1,9 @@
+{
+  "db_host": "<db-host>",
+  "db_port": 3306,
+  "db_user": "<db-user>",
+  "db_password": "<db-password>",
+  "db_name": "<db-name>",
+  "http_addr": ":8080",
+  "api_token": "<api-token>"
+}
