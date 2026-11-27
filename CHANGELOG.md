@@ -2,6 +2,17 @@
 
 All notable changes to this project are documented here.
 
+## v0.1.1 - 2026-11-27
+
+### Changed
+
+- Release builds now target Windows/amd64 only.
+- Release archives include `.env.example`, `config.json.example`, and `docs/api.md`.
+
+### Added
+
+- `.env.example` template for environment-based configuration.
+
 ## v0.1.0 - 2026-11-27
 
 ### Added

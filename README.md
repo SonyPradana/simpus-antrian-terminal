@@ -34,6 +34,8 @@ go build -o app.exe .
 ## Configuration
 
 Copy `config.json.example` to `config.json` and replace every placeholder.
+Alternatively, use `.env.example` as a template and export those variables into your
+shell — the application reads process environment variables and does not auto-load `.env`.
 Environment variables override values from the file:
 
 | Env | Default | Description |
